@@ -1,0 +1,18 @@
+.image-home {
+   background-image : url('./assets/img/i1.jpg') ;
+}
+
+.background-color-container {
+    background-color: #3ca719;
+    padding: 60px 0;
+}
+
+.col1 {
+        background-image: linear-gradient(90deg,#e0e8d5 0,#034d03);
+}
+
+.navbar-logo-img {
+	margin-top: -35px;
+	height: 100px;
+	width: 200px;
+}
